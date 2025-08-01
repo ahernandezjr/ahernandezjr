@@ -7,7 +7,7 @@ I'm Alexander — a data engineer and software developer focused on building sca
   - [**NBA Analytics**](https://github.com/ahernandezjr/nba_analytics) setting up a data pipeline through Azure and on-prem systems to compile player analysis reports
 # About Me:
 **🔭 I’m currently working on:**
-- Data consultancy work
+  - Data consultancy work
   - Contributing to hobby FOSS repos in my free time
 **🌱 I’m currently learning:**
   - DevOps, GameDev, and more about standard software engineering with C++
