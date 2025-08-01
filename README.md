@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there, I'm Alex 👋
 
-I'm Alexander — a data engineer and software developer focused on building scalable pipelines, AI-powered applications, and cloud-based tools.
+I'm Alex — a data engineer and software developer focused on building scalable pipelines, AI-powered applications, and cloud-based tools.
 
 ## 📝 Things I Have Done:
   - **AI Telephone Conversational Chatbot** utilizing Twilio, Azure, ChatGPT, and ElevenLabs
