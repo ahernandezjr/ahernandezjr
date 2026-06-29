@@ -16,7 +16,7 @@ I'm Alex — a data engineer and software developer focused on building scalable
   - Hobby projects
 ### **How to reach me:**
   - [ahernandezjr0@gmail.com](mailto:ahernandezjr0@gmail.com)
-### * How I Started:**
+### **How I Started:**
   - My first machine learning model used OpenCV to analyze adversarial images that mess with neural nets (it was a fun introduction!)
 
 Pleasure to meet you!
